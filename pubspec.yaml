@@ -1,0 +1,17 @@
+name: smartsoadsense_core_package
+
+description: >-
+  Porting della libreria core di SmartRoadSense realizzato da Basili Alessio.
+
+version: 1.0.0
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  event: ^2.0.1
+
+dev_dependencies:
+  test: ^1.18.2
+
+publish_to: none
